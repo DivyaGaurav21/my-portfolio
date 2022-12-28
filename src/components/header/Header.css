@@ -35,7 +35,6 @@ header {
 
 /* ===== ME ===== */
 .me{
-    
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -47,7 +46,7 @@ header {
 .me img{
         border-radius: 12rem 12rem 0 0;  
         /* height: 80%;  */
-        border: 1px solid var(--primary);
+        /* border: 1px solid var(--primary); */
 }
 @media screen and (max-width:500px) {
     .me img{

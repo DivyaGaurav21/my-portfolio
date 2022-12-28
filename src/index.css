@@ -54,7 +54,8 @@ h1{
 }
 
 section{
-    margin-top: 8rem;
+    margin-top: 4rem;
+    height: 100vh;
 }
 
 section > h2 , section > h5 {
@@ -110,7 +111,7 @@ img{
         width: var(--container-width-md);
     }
     section{
-        margin-top: 6rem;
+        margin-top: 4rem;
     }
 }
 /* =======MEDIA QUERY (SMALL DEVICE) ========= */
@@ -121,5 +122,8 @@ img{
     }
     section > h2{
         margin-bottom: 2rem;
+    }
+    section{
+        margin-top: -2rem;
     }
 }
