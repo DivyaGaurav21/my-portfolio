@@ -26,6 +26,6 @@ nav a:hover{
     background: rgba(0,0,0,0.3);
 }
 nav a.active{
-  background: var(--bg);
-  color: var(--white);
+  background: var(--primary);
+  color: var(--bg);
 }

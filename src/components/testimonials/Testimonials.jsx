@@ -34,6 +34,11 @@ const data = [
         avatar: AVTR4,
         name: 'Sania Mirja',
         review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ut ipsum et accusantium officia exercitationem sed cumque quo maiores, omnis, maxime laborum voluptates dolorem non aut quibusdam? Veniam, cum sit!'
+    },
+    {
+        avatar: AVTR2,
+        name: 'John Doe',
+        review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ut ipsum et accusantium officia exercitationem sed cumque quo maiores, omnis, maxime laborum voluptates dolorem non aut quibusdam? Veniam, cum sit!'
     }
 ]
 
