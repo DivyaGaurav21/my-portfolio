@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.0c0307aa.css",
+    "main.js": "/my-portfolio/static/js/main.c3570dfb.js",
+    "static/media/myself.jpg": "/my-portfolio/static/media/myself.100991ef13f121a158a4.jpg",
+    "static/media/me.jpg": "/my-portfolio/static/media/me.e0d2f7d398c9b775e148.jpg",
+    "static/media/portfolio1.png": "/my-portfolio/static/media/portfolio1.bf883db45847b86a033f.png",
+    "static/media/portfolio4.png": "/my-portfolio/static/media/portfolio4.62f1e1eb4494366066ea.png",
+    "static/media/portfolio5.png": "/my-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/divyaGuarav updated resume.pdf": "/my-portfolio/static/media/divyaGuarav updated resume.a8bfeffa2511a8ab5b03.pdf",
+    "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio3.jpg": "/my-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.0c0307aa.css.map": "/my-portfolio/static/css/main.0c0307aa.css.map",
+    "main.c3570dfb.js.map": "/my-portfolio/static/js/main.c3570dfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0307aa.css",
+    "static/js/main.c3570dfb.js"
+  ]
+}
