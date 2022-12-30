@@ -1,0 +1,84 @@
+
+/* right side  */
+.w-right{
+    position: relative;
+    padding: 4rem 2rem 1rem;
+    box-sizing: border-box;
+}
+.w-mainCircle{
+    margin: 10px auto;
+    width: 18rem;
+    height: 18rem;
+    position: relative;
+    background-color:white;
+    border-radius: 100%;
+    border: 3px solid rgb(106, 245, 176);
+}
+.w-mainCircle >*{
+    position: absolute;
+}
+.w-mainCircle > :nth-child(1){
+    left: -3rem;
+    top: 5rem;
+}
+.w-mainCircle > :nth-child(2){
+    left: 5rem;
+    top: -3rem;
+}
+.w-mainCircle > :nth-child(3){
+    left: 6rem;
+    top: 5rem;
+}
+.w-mainCircle > :nth-child(4){
+    left: 15rem;
+    top: 5rem;
+}
+.w-mainCircle > :nth-child(5){
+    left: 6rem;
+    top: 13rem;
+}
+@keyframes rotating{
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+.w-secCircle{
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    border: 5px solid rgb(106, 245, 176);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    box-shadow: var(--smboxShadow);
+    background: #fff;
+     animation-name: rotating;
+	animation-timing-function: linear;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+
+}
+.w-secCircle >img {
+    transform: scale(0.6);
+}
+.w-backCircle{
+    position: absolute;
+    height: 14rem;
+    width: 14rem;
+    border-radius: 100%;
+    z-index: -1;
+}
+.blueCircle{
+   background-color: rgba(92, 92, 248, 0.658);
+   top: 0;
+   left: 7rem;
+}
+.yellowCircle{
+   background-color:rgba(255, 255, 95, 0.774);
+   top: 5rem;
+   left: 7rem;
+}

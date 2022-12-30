@@ -5,6 +5,7 @@ import Contact from './components/contact/Contact';
 import Experience from './components/experience/Experience';
 import Footer from './components/footer/Footer';
 import Header from './components/header/Header'
+import Idea from './components/idea/Idea';
 import Myservice from './components/myservice/Myservice';
 import Nav from './components/nav/Nav';
 import Portfolio from './components/portfolio/Portfolio';
@@ -20,6 +21,7 @@ function App() {
           <Experience />
           <Myservice />
           <Portfolio />
+          <Idea />
           <Testimonials />
           <Contact />
           <Footer />
